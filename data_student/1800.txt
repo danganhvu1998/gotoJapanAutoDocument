@@ -1,0 +1,44 @@
+studentNaMe	:	Kiều Chinh
+studentGender	:	Nữ
+studentCMNDNumber	:	0
+studentNumber	:	0978346979
+studentRela	:	Học sinh cấp 3 lên Đại học
+studentSponsor1JobPlace	:	Độc thân
+studentEmail	:	kieuchinhpearl@gmail.com
+studentBirthday	:	
+studentCMNDDate	:	
+studentPSchoolName	:	
+studentPSchoolDate	:	
+studentSSchoolName	:	
+studentSSchoolDate	:	
+studentHSchool1Name	:	
+studentHSchool1Date	:	
+studentUniversity1Name	:	
+studentUniversity1Date	:	
+studentSponsor1Name	:	
+studentSponsor1Birthday	:	
+studentSponsor1Number	:	
+studentNguyenQuan	:	
+studentThuongChu	:	
+studentBirthPlace	:	
+studentAddress	:	
+studentFatherName	:	
+studentMotherName	:	
+studentUniversity2Name	:	
+studentUniversity2Date	:	
+studentCMNDPlace	:	
+studentPassport	:	
+studentCompany1Name	:	
+studentCompany1Date	:	
+studentCompany2Name	:	
+studentCompany2Date	:	
+studentCompany3Name	:	
+studentCompany3Date	:	
+studentSponsor1JobName	:	
+studentSponsor1DNN	:	
+studentJapanSchool	:	
+studentWhatever	:	
+#EoF#
+You always can create new data anyline above EoF line. (data : studentInfo)
+studentIndo then will replace all data in student's document
+Different data between SERVER and HR(Data Server always has higher priority):

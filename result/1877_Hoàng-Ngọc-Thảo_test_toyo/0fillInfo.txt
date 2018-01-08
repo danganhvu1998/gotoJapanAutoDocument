@@ -1,0 +1,22 @@
+studentNaMe~Hoàng Ngọc Thảo
+studentGender~Nữ
+studentBirthday~2016-08-02
+studentCMNDNumber~145531189
+studentCMNDDate~2016-03-03
+studentNumber~0972605534
+studentPSchoolName~Mễ sở
+studentSSchoolName~Mễ sở
+studentSSchoolDate~2005-2009
+studentHSchool1Name~Nguyễn Công Hoan
+studentHSchool1Date~2009-2012
+studentUniversity1Name~Trường Cao đăng sư phạm Trung ương
+studentUniversity1Date~tháng 9 /2013 -thg 6/2016
+studentSponsor1Name~Duong Thi Mien
+studentSponsor1Number~01686300258
+studentRela~Độc thân
+studentNguyenQuan~mễ sở, văn giang Hưng yên
+studentThuongChu~Mễ sở Văn giang , Hương yên
+studentBirthPlace~Hưng yên
+studentAddress~mễ sở văn giang hưng yên
+studentFatherName~Nguyễn Văn Thi , sn 1968 làm nông
+studentMotherName~Duong thi miên , sn 1971 làm nông

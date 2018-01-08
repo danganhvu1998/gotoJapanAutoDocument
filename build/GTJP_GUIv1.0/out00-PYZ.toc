@@ -1,0 +1,2147 @@
+('C:\\Users\\Dang Anh '
+ 'Vu\\Dropbox\\VtmFileSystem\\Python\\build\\GTJP_GUIv1.0\\out00-PYZ.pyz',
+ [('multiprocessing.popen_fork',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('xmlrpc.client',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\xmlrpc\\client.py',
+   'PYMODULE'),
+  ('xmlrpc',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\xmlrpc\\__init__.py',
+   'PYMODULE'),
+  ('decimal',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\decimal.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('numbers',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\numbers.py',
+   'PYMODULE'),
+  ('hmac',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\hmac.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.semaphore_tracker',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\multiprocessing\\semaphore_tracker.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('ctypes',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('queue',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\queue.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('runpy',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\runpy.py',
+   'PYMODULE'),
+  ('_strptime',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('ntpath',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\ntpath.py',
+   'PYMODULE'),
+  ('stringprep',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\fnmatch.py',
+   'PYMODULE'),
+  ('struct',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\struct.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('__future__',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\__future__.py',
+   'PYMODULE'),
+  ('difflib',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\difflib.py',
+   'PYMODULE'),
+  ('ast',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\ast.py',
+   'PYMODULE'),
+  ('inspect',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\inspect.py',
+   'PYMODULE'),
+  ('cmd',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\cmd.py',
+   'PYMODULE'),
+  ('bdb',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\bdb.py',
+   'PYMODULE'),
+  ('opcode',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\opcode.py',
+   'PYMODULE'),
+  ('dis',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\dis.py',
+   'PYMODULE'),
+  ('codeop',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\codeop.py',
+   'PYMODULE'),
+  ('code',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\code.py',
+   'PYMODULE'),
+  ('glob',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\glob.py',
+   'PYMODULE'),
+  ('shlex',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\shlex.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\pkgutil.py',
+   'PYMODULE'),
+  ('xml',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('plistlib',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\plistlib.py',
+   'PYMODULE'),
+  ('platform',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\platform.py',
+   'PYMODULE'),
+  ('token',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\token.py',
+   'PYMODULE'),
+  ('tokenize',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\tokenize.py',
+   'PYMODULE'),
+  ('tty',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\tty.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('html.entities',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\html\\entities.py',
+   'PYMODULE'),
+  ('html',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('ipaddress',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\ipaddress.py',
+   'PYMODULE'),
+  ('http.client',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\http\\client.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\mimetypes.py',
+   'PYMODULE'),
+  ('socketserver',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\socketserver.py',
+   'PYMODULE'),
+  ('http',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('http.server',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\http\\server.py',
+   'PYMODULE'),
+  ('optparse',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\optparse.py',
+   'PYMODULE'),
+  ('uu',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\uu.py',
+   'PYMODULE'),
+  ('quopri',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\quopri.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.parser',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('calendar',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\calendar.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email.utils',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('email.errors',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.header',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.charset',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('base64',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\base64.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('hashlib',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\hashlib.py',
+   'PYMODULE'),
+  ('bisect',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\bisect.py',
+   'PYMODULE'),
+  ('random',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\random.py',
+   'PYMODULE'),
+  ('email.generator',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('urllib',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.policy',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.message',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('bz2',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\bz2.py',
+   'PYMODULE'),
+  ('lzma',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\lzma.py',
+   'PYMODULE'),
+  ('_compression',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\_compression.py',
+   'PYMODULE'),
+  ('gzip',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\gzip.py',
+   'PYMODULE'),
+  ('tarfile',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('py_compile',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('socket',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\socket.py',
+   'PYMODULE'),
+  ('pydoc',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\pydoc.py',
+   'PYMODULE'),
+  ('getopt',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\getopt.py',
+   'PYMODULE'),
+  ('pdb',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\pdb.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('string',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\string.py',
+   'PYMODULE'),
+  ('logging',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('doctest',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\doctest.py',
+   'PYMODULE'),
+  ('copy',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\copy.py',
+   'PYMODULE'),
+  ('stat',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\stat.py',
+   'PYMODULE'),
+  ('genericpath',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\genericpath.py',
+   'PYMODULE'),
+  ('posixpath',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\posixpath.py',
+   'PYMODULE'),
+  ('enum',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\enum.py',
+   'PYMODULE'),
+  ('signal',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\signal.py',
+   'PYMODULE'),
+  ('contextlib',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('threading',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\threading.py',
+   'PYMODULE'),
+  ('selectors',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\selectors.py',
+   'PYMODULE'),
+  ('_dummy_thread',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\_dummy_thread.py',
+   'PYMODULE'),
+  ('dummy_threading',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\dummy_threading.py',
+   'PYMODULE'),
+  ('subprocess',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('textwrap',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('gettext',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\gettext.py',
+   'PYMODULE'),
+  ('argparse',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\argparse.py',
+   'PYMODULE'),
+  ('pprint',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\pprint.py',
+   'PYMODULE'),
+  ('pickle',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\pickle.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('warnings',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\warnings.py',
+   'PYMODULE'),
+  ('tkinter.filedialog',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\tkinter\\filedialog.py',
+   'PYMODULE'),
+  ('tkinter.commondialog',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\tkinter\\commondialog.py',
+   'PYMODULE'),
+  ('tkinter.dialog',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\tkinter\\dialog.py',
+   'PYMODULE'),
+  ('tkinter',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\tkinter\\__init__.py',
+   'PYMODULE'),
+  ('tkinter.constants',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\tkinter\\constants.py',
+   'PYMODULE'),
+  ('datetime',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\datetime.py',
+   'PYMODULE'),
+  ('docx',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\docx\\__init__.py',
+   'PYMODULE'),
+  ('docx.parts.styles',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\docx\\parts\\styles.py',
+   'PYMODULE'),
+  ('docx.parts',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\docx\\parts\\__init__.py',
+   'PYMODULE'),
+  ('docx.styles.styles',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\docx\\styles\\styles.py',
+   'PYMODULE'),
+  ('docx.styles.style',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\docx\\styles\\style.py',
+   'PYMODULE'),
+  ('docx.text.parfmt',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\docx\\text\\parfmt.py',
+   'PYMODULE'),
+  ('docx.text',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\docx\\text\\__init__.py',
+   'PYMODULE'),
+  ('docx.text.tabstops',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\docx\\text\\tabstops.py',
+   'PYMODULE'),
+  ('docx.enum.text',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\docx\\enum\\text.py',
+   'PYMODULE'),
+  ('docx.enum',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\docx\\enum\\__init__.py',
+   'PYMODULE'),
+  ('docx.enum.base',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\docx\\enum\\base.py',
+   'PYMODULE'),
+  ('docx.exceptions',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\docx\\exceptions.py',
+   'PYMODULE'),
+  ('docx.text.font',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\docx\\text\\font.py',
+   'PYMODULE'),
+  ('docx.dml.color',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\docx\\dml\\color.py',
+   'PYMODULE'),
+  ('docx.dml',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\docx\\dml\\__init__.py',
+   'PYMODULE'),
+  ('docx.oxml.simpletypes',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\docx\\oxml\\simpletypes.py',
+   'PYMODULE'),
+  ('docx.enum.dml',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\docx\\enum\\dml.py',
+   'PYMODULE'),
+  ('docx.enum.style',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\docx\\enum\\style.py',
+   'PYMODULE'),
+  ('docx.shared',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\docx\\shared.py',
+   'PYMODULE'),
+  ('docx.styles.latent',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\docx\\styles\\latent.py',
+   'PYMODULE'),
+  ('docx.styles',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\docx\\styles\\__init__.py',
+   'PYMODULE'),
+  ('docx.oxml',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\docx\\oxml\\__init__.py',
+   'PYMODULE'),
+  ('docx.oxml.text.run',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\docx\\oxml\\text\\run.py',
+   'PYMODULE'),
+  ('docx.oxml.text',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\docx\\oxml\\text\\__init__.py',
+   'PYMODULE'),
+  ('docx.oxml.xmlchemy',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\docx\\oxml\\xmlchemy.py',
+   'PYMODULE'),
+  ('docx.oxml.exceptions',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\docx\\oxml\\exceptions.py',
+   'PYMODULE'),
+  ('docx.compat',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\docx\\compat.py',
+   'PYMODULE'),
+  ('docx.oxml.text.parfmt',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\docx\\oxml\\text\\parfmt.py',
+   'PYMODULE'),
+  ('docx.oxml.text.paragraph',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\docx\\oxml\\text\\paragraph.py',
+   'PYMODULE'),
+  ('docx.oxml.text.font',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\docx\\oxml\\text\\font.py',
+   'PYMODULE'),
+  ('docx.oxml.table',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\docx\\oxml\\table.py',
+   'PYMODULE'),
+  ('docx.oxml.styles',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\docx\\oxml\\styles.py',
+   'PYMODULE'),
+  ('docx.oxml.shape',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\docx\\oxml\\shape.py',
+   'PYMODULE'),
+  ('docx.oxml.section',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\docx\\oxml\\section.py',
+   'PYMODULE'),
+  ('docx.enum.section',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\docx\\enum\\section.py',
+   'PYMODULE'),
+  ('docx.oxml.numbering',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\docx\\oxml\\numbering.py',
+   'PYMODULE'),
+  ('docx.oxml.document',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\docx\\oxml\\document.py',
+   'PYMODULE'),
+  ('docx.oxml.coreprops',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\docx\\oxml\\coreprops.py',
+   'PYMODULE'),
+  ('docx.oxml.shared',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\docx\\oxml\\shared.py',
+   'PYMODULE'),
+  ('docx.oxml.ns',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\docx\\oxml\\ns.py',
+   'PYMODULE'),
+  ('lxml',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\lxml\\__init__.py',
+   'PYMODULE'),
+  ('docx.opc.packuri',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\docx\\opc\\packuri.py',
+   'PYMODULE'),
+  ('docx.opc',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\docx\\opc\\__init__.py',
+   'PYMODULE'),
+  ('docx.parts.settings',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\docx\\parts\\settings.py',
+   'PYMODULE'),
+  ('docx.settings',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\docx\\settings.py',
+   'PYMODULE'),
+  ('docx.parts.numbering',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\docx\\parts\\numbering.py',
+   'PYMODULE'),
+  ('docx.parts.image',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\docx\\parts\\image.py',
+   'PYMODULE'),
+  ('docx.image.image',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\docx\\image\\image.py',
+   'PYMODULE'),
+  ('docx.image',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\docx\\image\\__init__.py',
+   'PYMODULE'),
+  ('docx.image.tiff',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\docx\\image\\tiff.py',
+   'PYMODULE'),
+  ('docx.image.helpers',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\docx\\image\\helpers.py',
+   'PYMODULE'),
+  ('docx.image.constants',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\docx\\image\\constants.py',
+   'PYMODULE'),
+  ('docx.image.png',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\docx\\image\\png.py',
+   'PYMODULE'),
+  ('docx.image.jpeg',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\docx\\image\\jpeg.py',
+   'PYMODULE'),
+  ('docx.image.gif',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\docx\\image\\gif.py',
+   'PYMODULE'),
+  ('docx.image.bmp',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\docx\\image\\bmp.py',
+   'PYMODULE'),
+  ('docx.image.exceptions',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\docx\\image\\exceptions.py',
+   'PYMODULE'),
+  ('docx.parts.document',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\docx\\parts\\document.py',
+   'PYMODULE'),
+  ('docx.shape',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\docx\\shape.py',
+   'PYMODULE'),
+  ('docx.enum.shape',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\docx\\enum\\shape.py',
+   'PYMODULE'),
+  ('docx.document',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\docx\\document.py',
+   'PYMODULE'),
+  ('docx.section',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\docx\\section.py',
+   'PYMODULE'),
+  ('docx.blkcntnr',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\docx\\blkcntnr.py',
+   'PYMODULE'),
+  ('docx.table',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\docx\\table.py',
+   'PYMODULE'),
+  ('docx.text.paragraph',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\docx\\text\\paragraph.py',
+   'PYMODULE'),
+  ('docx.text.run',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\docx\\text\\run.py',
+   'PYMODULE'),
+  ('docx.opc.parts.coreprops',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\docx\\opc\\parts\\coreprops.py',
+   'PYMODULE'),
+  ('docx.opc.parts',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\docx\\opc\\parts\\__init__.py',
+   'PYMODULE'),
+  ('docx.opc.coreprops',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\docx\\opc\\coreprops.py',
+   'PYMODULE'),
+  ('docx.opc.part',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\docx\\opc\\part.py',
+   'PYMODULE'),
+  ('docx.opc.shared',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\docx\\opc\\shared.py',
+   'PYMODULE'),
+  ('docx.opc.rel',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\docx\\opc\\rel.py',
+   'PYMODULE'),
+  ('docx.opc.oxml',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\docx\\opc\\oxml.py',
+   'PYMODULE'),
+  ('docx.opc.compat',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\docx\\opc\\compat.py',
+   'PYMODULE'),
+  ('docx.opc.constants',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\docx\\opc\\constants.py',
+   'PYMODULE'),
+  ('docx.api',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\docx\\api.py',
+   'PYMODULE'),
+  ('docx.package',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\docx\\package.py',
+   'PYMODULE'),
+  ('docx.opc.package',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\docx\\opc\\package.py',
+   'PYMODULE'),
+  ('docx.opc.pkgwriter',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\docx\\opc\\pkgwriter.py',
+   'PYMODULE'),
+  ('docx.opc.spec',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\docx\\opc\\spec.py',
+   'PYMODULE'),
+  ('docx.opc.phys_pkg',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\docx\\opc\\phys_pkg.py',
+   'PYMODULE'),
+  ('docx.opc.exceptions',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\docx\\opc\\exceptions.py',
+   'PYMODULE'),
+  ('docx.opc.pkgreader',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\docx\\opc\\pkgreader.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\webbrowser.py',
+   'PYMODULE'),
+  ('tempfile',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('multiprocessing',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.utils',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\utils\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.utils.formulas',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\utils\\formulas.py',
+   'PYMODULE'),
+  ('openpyxl.utils.cell',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\utils\\cell.py',
+   'PYMODULE'),
+  ('openpyxl.utils.exceptions',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\utils\\exceptions.py',
+   'PYMODULE'),
+  ('openpyxl.compat',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\compat\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.compat.odict',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\compat\\odict.py',
+   'PYMODULE'),
+  ('openpyxl.compat.numbers',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\compat\\numbers.py',
+   'PYMODULE'),
+  ('openpyxl.compat.strings',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\compat\\strings.py',
+   'PYMODULE'),
+  ('openpyxl',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.reader.excel',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\reader\\excel.py',
+   'PYMODULE'),
+  ('openpyxl.reader',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\reader\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.reader.worksheet',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\reader\\worksheet.py',
+   'PYMODULE'),
+  ('openpyxl.descriptors.excel',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\descriptors\\excel.py',
+   'PYMODULE'),
+  ('openpyxl.descriptors.serialisable',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\descriptors\\serialisable.py',
+   'PYMODULE'),
+  ('openpyxl.descriptors.namespace',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\descriptors\\namespace.py',
+   'PYMODULE'),
+  ('openpyxl.descriptors.sequence',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\descriptors\\sequence.py',
+   'PYMODULE'),
+  ('openpyxl.descriptors.base',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\descriptors\\base.py',
+   'PYMODULE'),
+  ('openpyxl.utils.datetime',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\utils\\datetime.py',
+   'PYMODULE'),
+  ('jdcal',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\jdcal.py',
+   'PYMODULE'),
+  ('openpyxl.utils.indexed_list',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\utils\\indexed_list.py',
+   'PYMODULE'),
+  ('openpyxl.descriptors',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\descriptors\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.properties',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\worksheet\\properties.py',
+   'PYMODULE'),
+  ('openpyxl.styles.colors',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\styles\\colors.py',
+   'PYMODULE'),
+  ('openpyxl.formula.translate',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\formula\\translate.py',
+   'PYMODULE'),
+  ('openpyxl.formula',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\formula\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.formula.tokenizer',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\formula\\tokenizer.py',
+   'PYMODULE'),
+  ('openpyxl.formatting.formatting',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\formatting\\formatting.py',
+   'PYMODULE'),
+  ('openpyxl.formatting.rule',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\formatting\\rule.py',
+   'PYMODULE'),
+  ('openpyxl.styles.differential',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\styles\\differential.py',
+   'PYMODULE'),
+  ('openpyxl.styles.numbers',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\styles\\numbers.py',
+   'PYMODULE'),
+  ('openpyxl.formatting',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\formatting\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.styles',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\styles\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.styles.named_styles',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\styles\\named_styles.py',
+   'PYMODULE'),
+  ('openpyxl.styles.cell_style',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\styles\\cell_style.py',
+   'PYMODULE'),
+  ('openpyxl.styles.protection',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\styles\\protection.py',
+   'PYMODULE'),
+  ('openpyxl.styles.fonts',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\styles\\fonts.py',
+   'PYMODULE'),
+  ('openpyxl.descriptors.nested',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\descriptors\\nested.py',
+   'PYMODULE'),
+  ('openpyxl.styles.fills',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\styles\\fills.py',
+   'PYMODULE'),
+  ('openpyxl.styles.borders',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\styles\\borders.py',
+   'PYMODULE'),
+  ('openpyxl.styles.alignment',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\styles\\alignment.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.datavalidation',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\worksheet\\datavalidation.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.views',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\worksheet\\views.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.protection',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\worksheet\\protection.py',
+   'PYMODULE'),
+  ('openpyxl.utils.protection',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\utils\\protection.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.pagebreak',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\worksheet\\pagebreak.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.page',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\worksheet\\page.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.merge',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\worksheet\\merge.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.hyperlink',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\worksheet\\hyperlink.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.header_footer',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\worksheet\\header_footer.py',
+   'PYMODULE'),
+  ('openpyxl.utils.escape',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\utils\\escape.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.dimensions',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\worksheet\\dimensions.py',
+   'PYMODULE'),
+  ('openpyxl.utils.bound_dictionary',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\utils\\bound_dictionary.py',
+   'PYMODULE'),
+  ('openpyxl.styles.styleable',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\styles\\styleable.py',
+   'PYMODULE'),
+  ('openpyxl.styles.builtins',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\styles\\builtins.py',
+   'PYMODULE'),
+  ('openpyxl.styles.proxy',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\styles\\proxy.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\worksheet\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.worksheet',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\worksheet\\worksheet.py',
+   'PYMODULE'),
+  ('openpyxl.writer.worksheet',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\writer\\worksheet.py',
+   'PYMODULE'),
+  ('openpyxl.writer',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\writer\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.writer.etree_worksheet',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\writer\\etree_worksheet.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.related',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\worksheet\\related.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.spreadsheet_drawing',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\drawing\\spreadsheet_drawing.py',
+   'PYMODULE'),
+  ('openpyxl.drawing',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\drawing\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.drawing',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\drawing\\drawing.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.graphic',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\drawing\\graphic.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.text',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\drawing\\text.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.colors',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\drawing\\colors.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.effect',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\drawing\\effect.py',
+   'PYMODULE'),
+  ('openpyxl.chart.text',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\chart\\text.py',
+   'PYMODULE'),
+  ('openpyxl.chart',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\chart\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.chart.reference',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\chart\\reference.py',
+   'PYMODULE'),
+  ('openpyxl.chart.series_factory',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\chart\\series_factory.py',
+   'PYMODULE'),
+  ('openpyxl.chart.series',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\chart\\series.py',
+   'PYMODULE'),
+  ('openpyxl.chart.trendline',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\chart\\trendline.py',
+   'PYMODULE'),
+  ('openpyxl.chart.layout',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\chart\\layout.py',
+   'PYMODULE'),
+  ('openpyxl.chart.marker',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\chart\\marker.py',
+   'PYMODULE'),
+  ('openpyxl.chart.picture',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\chart\\picture.py',
+   'PYMODULE'),
+  ('openpyxl.chart.label',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\chart\\label.py',
+   'PYMODULE'),
+  ('openpyxl.chart.error_bar',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\chart\\error_bar.py',
+   'PYMODULE'),
+  ('openpyxl.chart.surface_chart',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\chart\\surface_chart.py',
+   'PYMODULE'),
+  ('openpyxl.chart.axis',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\chart\\axis.py',
+   'PYMODULE'),
+  ('openpyxl.chart.title',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\chart\\title.py',
+   'PYMODULE'),
+  ('openpyxl.chart.descriptors',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\chart\\descriptors.py',
+   'PYMODULE'),
+  ('openpyxl.chart._3d',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\chart\\_3d.py',
+   'PYMODULE'),
+  ('openpyxl.chart.stock_chart',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\chart\\stock_chart.py',
+   'PYMODULE'),
+  ('openpyxl.chart.updown_bars',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\chart\\updown_bars.py',
+   'PYMODULE'),
+  ('openpyxl.chart.scatter_chart',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\chart\\scatter_chart.py',
+   'PYMODULE'),
+  ('openpyxl.chart.radar_chart',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\chart\\radar_chart.py',
+   'PYMODULE'),
+  ('openpyxl.chart.pie_chart',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\chart\\pie_chart.py',
+   'PYMODULE'),
+  ('openpyxl.chart.line_chart',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\chart\\line_chart.py',
+   'PYMODULE'),
+  ('openpyxl.chart.bubble_chart',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\chart\\bubble_chart.py',
+   'PYMODULE'),
+  ('openpyxl.chart.bar_chart',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\chart\\bar_chart.py',
+   'PYMODULE'),
+  ('openpyxl.chart.legend',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\chart\\legend.py',
+   'PYMODULE'),
+  ('openpyxl.chart.area_chart',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\chart\\area_chart.py',
+   'PYMODULE'),
+  ('openpyxl.chart.data_source',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\chart\\data_source.py',
+   'PYMODULE'),
+  ('openpyxl.chart.shapes',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\chart\\shapes.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.line',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\drawing\\line.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.fill',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\drawing\\fill.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.shapes',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\drawing\\shapes.py',
+   'PYMODULE'),
+  ('openpyxl.chart._chart',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\chart\\_chart.py',
+   'PYMODULE'),
+  ('openpyxl.chart.chartspace',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\chart\\chartspace.py',
+   'PYMODULE'),
+  ('openpyxl.chart.print_settings',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\chart\\print_settings.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.image',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\drawing\\image.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.defined_name',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\workbook\\defined_name.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.child',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\workbook\\child.py',
+   'PYMODULE'),
+  ('openpyxl.utils.units',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\utils\\units.py',
+   'PYMODULE'),
+  ('openpyxl.cell.text',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\cell\\text.py',
+   'PYMODULE'),
+  ('openpyxl.cell.read_only',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\cell\\read_only.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.filters',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\worksheet\\filters.py',
+   'PYMODULE'),
+  ('openpyxl.cell',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\cell\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.cell.cell',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\cell\\cell.py',
+   'PYMODULE'),
+  ('openpyxl.xml.functions',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\xml\\functions.py',
+   'PYMODULE'),
+  ('et_xmlfile.xmlfile',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\et_xmlfile\\xmlfile.py',
+   'PYMODULE'),
+  ('et_xmlfile',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\et_xmlfile\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.xml.namespace',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\xml\\namespace.py',
+   'PYMODULE'),
+  ('xml.etree.cElementTree',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\xml\\etree\\cElementTree.py',
+   'PYMODULE'),
+  ('xml.etree',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\xml\\etree\\__init__.py',
+   'PYMODULE'),
+  ('xml.etree.ElementPath',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\xml\\etree\\ElementPath.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.table',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\worksheet\\table.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.read_only',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\worksheet\\read_only.py',
+   'PYMODULE'),
+  ('openpyxl.packaging.relationship',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\packaging\\relationship.py',
+   'PYMODULE'),
+  ('openpyxl.packaging',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.packaging.workbook',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\packaging\\workbook.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.external_link.external',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\workbook\\external_link\\external.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.external_link',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\workbook\\external_link\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.workbook',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\workbook\\workbook.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.protection',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\workbook\\protection.py',
+   'PYMODULE'),
+  ('openpyxl.chartsheet',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\chartsheet\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.chartsheet.chartsheet',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\chartsheet\\chartsheet.py',
+   'PYMODULE'),
+  ('openpyxl.chartsheet.publish',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\chartsheet\\publish.py',
+   'PYMODULE'),
+  ('openpyxl.chartsheet.custom',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\chartsheet\\custom.py',
+   'PYMODULE'),
+  ('openpyxl.chartsheet.views',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\chartsheet\\views.py',
+   'PYMODULE'),
+  ('openpyxl.chartsheet.protection',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\chartsheet\\protection.py',
+   'PYMODULE'),
+  ('openpyxl.chartsheet.properties',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\chartsheet\\properties.py',
+   'PYMODULE'),
+  ('openpyxl.chartsheet.relation',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\chartsheet\\relation.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.drawing',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\worksheet\\drawing.py',
+   'PYMODULE'),
+  ('openpyxl.styles.table',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\styles\\table.py',
+   'PYMODULE'),
+  ('openpyxl.writer.excel',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\writer\\excel.py',
+   'PYMODULE'),
+  ('openpyxl.writer.theme',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\writer\\theme.py',
+   'PYMODULE'),
+  ('openpyxl.writer.workbook',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\writer\\workbook.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.views',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\workbook\\views.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.properties',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\workbook\\properties.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.external_reference',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\workbook\\external_reference.py',
+   'PYMODULE'),
+  ('openpyxl.writer.strings',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\writer\\strings.py',
+   'PYMODULE'),
+  ('openpyxl.packaging.extended',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\packaging\\extended.py',
+   'PYMODULE'),
+  ('openpyxl.writer.write_only',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\writer\\write_only.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.copier',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\worksheet\\copier.py',
+   'PYMODULE'),
+  ('openpyxl.comments',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\comments\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.comments.comments',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\comments\\comments.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.parser',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\workbook\\parser.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.web',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\workbook\\web.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.smart_tags',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\workbook\\smart_tags.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.pivot',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\workbook\\pivot.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.function_group',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\workbook\\function_group.py',
+   'PYMODULE'),
+  ('openpyxl.packaging.manifest',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\packaging\\manifest.py',
+   'PYMODULE'),
+  ('openpyxl.packaging.core',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\packaging\\core.py',
+   'PYMODULE'),
+  ('openpyxl.styles.stylesheet',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\styles\\stylesheet.py',
+   'PYMODULE'),
+  ('openpyxl.reader.strings',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\reader\\strings.py',
+   'PYMODULE'),
+  ('openpyxl.comments.comment_sheet',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\comments\\comment_sheet.py',
+   'PYMODULE'),
+  ('openpyxl.comments.shape_writer',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\comments\\shape_writer.py',
+   'PYMODULE'),
+  ('openpyxl.comments.author',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\comments\\author.py',
+   'PYMODULE'),
+  ('openpyxl.xml.constants',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\xml\\constants.py',
+   'PYMODULE'),
+  ('openpyxl.workbook',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\workbook\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.xml',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\openpyxl\\xml\\__init__.py',
+   'PYMODULE'),
+  ('requests',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\requests\\__init__.py',
+   'PYMODULE'),
+  ('requests.status_codes',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\requests\\status_codes.py',
+   'PYMODULE'),
+  ('requests.structures',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\requests\\structures.py',
+   'PYMODULE'),
+  ('requests.compat',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\requests\\compat.py',
+   'PYMODULE'),
+  ('http.cookies',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\http\\cookies.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('urllib3.packages.ordered_dict',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\urllib3\\packages\\ordered_dict.py',
+   'PYMODULE'),
+  ('urllib3.packages',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\urllib3\\packages\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.packages.ssl_match_hostname',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\urllib3\\packages\\ssl_match_hostname\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.packages.ssl_match_hostname._implementation',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\urllib3\\packages\\ssl_match_hostname\\_implementation.py',
+   'PYMODULE'),
+  ('requests.api',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\requests\\api.py',
+   'PYMODULE'),
+  ('requests.sessions',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\requests\\sessions.py',
+   'PYMODULE'),
+  ('requests.adapters',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\requests\\adapters.py',
+   'PYMODULE'),
+  ('urllib3.contrib.socks',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\urllib3\\contrib\\socks.py',
+   'PYMODULE'),
+  ('urllib3.util.url',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\urllib3\\util\\url.py',
+   'PYMODULE'),
+  ('urllib3.connectionpool',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\urllib3\\connectionpool.py',
+   'PYMODULE'),
+  ('urllib3.util.timeout',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\urllib3\\util\\timeout.py',
+   'PYMODULE'),
+  ('urllib3.util.response',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\urllib3\\util\\response.py',
+   'PYMODULE'),
+  ('urllib3.util.request',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\urllib3\\util\\request.py',
+   'PYMODULE'),
+  ('urllib3.util.connection',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\urllib3\\util\\connection.py',
+   'PYMODULE'),
+  ('urllib3.util.selectors',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\urllib3\\util\\selectors.py',
+   'PYMODULE'),
+  ('urllib3.util.wait',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\urllib3\\util\\wait.py',
+   'PYMODULE'),
+  ('urllib3.request',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\urllib3\\request.py',
+   'PYMODULE'),
+  ('urllib3.filepost',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\urllib3\\filepost.py',
+   'PYMODULE'),
+  ('urllib3.fields',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\urllib3\\fields.py',
+   'PYMODULE'),
+  ('uuid',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\uuid.py',
+   'PYMODULE'),
+  ('ctypes.util',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\ctypes\\util.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dyld',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\ctypes\\macholib\\dyld.py',
+   'PYMODULE'),
+  ('ctypes.macholib',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\ctypes\\macholib\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dylib',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\ctypes\\macholib\\dylib.py',
+   'PYMODULE'),
+  ('ctypes.macholib.framework',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\ctypes\\macholib\\framework.py',
+   'PYMODULE'),
+  ('netbios',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\win32\\lib\\netbios.py',
+   'PYMODULE'),
+  ('urllib3.packages.six',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\urllib3\\packages\\six.py',
+   'PYMODULE'),
+  ('urllib3.connection',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\urllib3\\connection.py',
+   'PYMODULE'),
+  ('urllib3._collections',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\urllib3\\_collections.py',
+   'PYMODULE'),
+  ('urllib3.util.ssl_',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\urllib3\\util\\ssl_.py',
+   'PYMODULE'),
+  ('urllib3.util.retry',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\urllib3\\util\\retry.py',
+   'PYMODULE'),
+  ('urllib3.util',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\urllib3\\util\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.response',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\urllib3\\response.py',
+   'PYMODULE'),
+  ('urllib3.poolmanager',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\urllib3\\poolmanager.py',
+   'PYMODULE'),
+  ('requests._internal_utils',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\requests\\_internal_utils.py',
+   'PYMODULE'),
+  ('requests.hooks',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\requests\\hooks.py',
+   'PYMODULE'),
+  ('requests.cookies',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\requests\\cookies.py',
+   'PYMODULE'),
+  ('requests.auth',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\requests\\auth.py',
+   'PYMODULE'),
+  ('requests.models',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\requests\\models.py',
+   'PYMODULE'),
+  ('idna',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\idna\\__init__.py',
+   'PYMODULE'),
+  ('idna.core',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\idna\\core.py',
+   'PYMODULE'),
+  ('idna.uts46data',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\idna\\uts46data.py',
+   'PYMODULE'),
+  ('idna.intranges',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\idna\\intranges.py',
+   'PYMODULE'),
+  ('idna.idnadata',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\idna\\idnadata.py',
+   'PYMODULE'),
+  ('idna.package_data',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\idna\\package_data.py',
+   'PYMODULE'),
+  ('requests.packages',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\requests\\packages.py',
+   'PYMODULE'),
+  ('requests.utils',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\requests\\utils.py',
+   'PYMODULE'),
+  ('netrc',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\netrc.py',
+   'PYMODULE'),
+  ('cgi',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\cgi.py',
+   'PYMODULE'),
+  ('requests.certs',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\requests\\certs.py',
+   'PYMODULE'),
+  ('certifi',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\certifi\\__init__.py',
+   'PYMODULE'),
+  ('certifi.core',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\certifi\\core.py',
+   'PYMODULE'),
+  ('requests.__version__',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\requests\\__version__.py',
+   'PYMODULE'),
+  ('urllib3.exceptions',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\urllib3\\exceptions.py',
+   'PYMODULE'),
+  ('urllib3.contrib.pyopenssl',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\urllib3\\contrib\\pyopenssl.py',
+   'PYMODULE'),
+  ('urllib3.packages.backports.makefile',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\urllib3\\packages\\backports\\makefile.py',
+   'PYMODULE'),
+  ('urllib3.packages.backports',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\urllib3\\packages\\backports\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.contrib',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\urllib3\\contrib\\__init__.py',
+   'PYMODULE'),
+  ('requests.exceptions',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\requests\\exceptions.py',
+   'PYMODULE'),
+  ('chardet',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\chardet\\__init__.py',
+   'PYMODULE'),
+  ('chardet.version',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\chardet\\version.py',
+   'PYMODULE'),
+  ('chardet.universaldetector',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\chardet\\universaldetector.py',
+   'PYMODULE'),
+  ('chardet.sbcsgroupprober',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\chardet\\sbcsgroupprober.py',
+   'PYMODULE'),
+  ('chardet.langturkishmodel',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\chardet\\langturkishmodel.py',
+   'PYMODULE'),
+  ('chardet.hebrewprober',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\chardet\\hebrewprober.py',
+   'PYMODULE'),
+  ('chardet.charsetprober',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\chardet\\charsetprober.py',
+   'PYMODULE'),
+  ('chardet.langhebrewmodel',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\chardet\\langhebrewmodel.py',
+   'PYMODULE'),
+  ('chardet.langthaimodel',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\chardet\\langthaimodel.py',
+   'PYMODULE'),
+  ('chardet.langbulgarianmodel',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\chardet\\langbulgarianmodel.py',
+   'PYMODULE'),
+  ('chardet.langgreekmodel',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\chardet\\langgreekmodel.py',
+   'PYMODULE'),
+  ('chardet.langcyrillicmodel',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\chardet\\langcyrillicmodel.py',
+   'PYMODULE'),
+  ('chardet.sbcharsetprober',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\chardet\\sbcharsetprober.py',
+   'PYMODULE'),
+  ('chardet.mbcsgroupprober',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\chardet\\mbcsgroupprober.py',
+   'PYMODULE'),
+  ('chardet.euctwprober',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\chardet\\euctwprober.py',
+   'PYMODULE'),
+  ('chardet.mbcssm',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\chardet\\mbcssm.py',
+   'PYMODULE'),
+  ('chardet.chardistribution',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\chardet\\chardistribution.py',
+   'PYMODULE'),
+  ('chardet.jisfreq',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\chardet\\jisfreq.py',
+   'PYMODULE'),
+  ('chardet.big5freq',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\chardet\\big5freq.py',
+   'PYMODULE'),
+  ('chardet.gb2312freq',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\chardet\\gb2312freq.py',
+   'PYMODULE'),
+  ('chardet.euckrfreq',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\chardet\\euckrfreq.py',
+   'PYMODULE'),
+  ('chardet.euctwfreq',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\chardet\\euctwfreq.py',
+   'PYMODULE'),
+  ('chardet.codingstatemachine',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\chardet\\codingstatemachine.py',
+   'PYMODULE'),
+  ('chardet.mbcharsetprober',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\chardet\\mbcharsetprober.py',
+   'PYMODULE'),
+  ('chardet.big5prober',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\chardet\\big5prober.py',
+   'PYMODULE'),
+  ('chardet.cp949prober',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\chardet\\cp949prober.py',
+   'PYMODULE'),
+  ('chardet.euckrprober',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\chardet\\euckrprober.py',
+   'PYMODULE'),
+  ('chardet.gb2312prober',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\chardet\\gb2312prober.py',
+   'PYMODULE'),
+  ('chardet.eucjpprober',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\chardet\\eucjpprober.py',
+   'PYMODULE'),
+  ('chardet.jpcntx',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\chardet\\jpcntx.py',
+   'PYMODULE'),
+  ('chardet.sjisprober',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\chardet\\sjisprober.py',
+   'PYMODULE'),
+  ('chardet.utf8prober',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\chardet\\utf8prober.py',
+   'PYMODULE'),
+  ('chardet.latin1prober',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\chardet\\latin1prober.py',
+   'PYMODULE'),
+  ('chardet.escprober',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\chardet\\escprober.py',
+   'PYMODULE'),
+  ('chardet.escsm',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\chardet\\escsm.py',
+   'PYMODULE'),
+  ('chardet.enums',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\chardet\\enums.py',
+   'PYMODULE'),
+  ('chardet.charsetgroupprober',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\chardet\\charsetgroupprober.py',
+   'PYMODULE'),
+  ('chardet.compat',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\chardet\\compat.py',
+   'PYMODULE'),
+  ('urllib3',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\urllib3\\__init__.py',
+   'PYMODULE'),
+  ('xml.etree.ElementTree',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\xml\\etree\\ElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.ElementInclude',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\xml\\etree\\ElementInclude.py',
+   'PYMODULE'),
+  ('ssl',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\ssl.py',
+   'PYMODULE'),
+  ('bs4',
+   'C:\\Users\\Dang Anh Vu\\Dropbox\\VtmFileSystem\\Python\\bs4\\__init__.py',
+   'PYMODULE'),
+  ('bs4.element',
+   'C:\\Users\\Dang Anh Vu\\Dropbox\\VtmFileSystem\\Python\\bs4\\element.py',
+   'PYMODULE'),
+  ('bs4.dammit',
+   'C:\\Users\\Dang Anh Vu\\Dropbox\\VtmFileSystem\\Python\\bs4\\dammit.py',
+   'PYMODULE'),
+  ('bs4.builder',
+   'C:\\Users\\Dang Anh '
+   'Vu\\Dropbox\\VtmFileSystem\\Python\\bs4\\builder\\__init__.py',
+   'PYMODULE'),
+  ('bs4.builder._lxml',
+   'C:\\Users\\Dang Anh '
+   'Vu\\Dropbox\\VtmFileSystem\\Python\\bs4\\builder\\_lxml.py',
+   'PYMODULE'),
+  ('bs4.builder._html5lib',
+   'C:\\Users\\Dang Anh '
+   'Vu\\Dropbox\\VtmFileSystem\\Python\\bs4\\builder\\_html5lib.py',
+   'PYMODULE'),
+  ('bs4.builder._htmlparser',
+   'C:\\Users\\Dang Anh '
+   'Vu\\Dropbox\\VtmFileSystem\\Python\\bs4\\builder\\_htmlparser.py',
+   'PYMODULE'),
+  ('html.parser',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\html\\parser.py',
+   'PYMODULE'),
+  ('_markupbase',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\_markupbase.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('getpass',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\getpass.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\nturl2path.py',
+   'PYMODULE'),
+  ('ftplib',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\ftplib.py',
+   'PYMODULE'),
+  ('json',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('os',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\os.py',
+   'PYMODULE'),
+  ('shutil',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\shutil.py',
+   'PYMODULE'),
+  ('zipfile',
+   'c:\\users\\dang anh '
+   'vu\\appdata\\local\\programs\\python\\python36\\lib\\zipfile.py',
+   'PYMODULE')])
