@@ -1,28 +1,24 @@
-studentNaMe	:	Hoang Ngoc Thảo
-studentGender	:	Nữ
-studentBirthday	:	1999-03-25
-studentCMNDDate	:	2016-03-03
-studentPassport	:	PASSPORTNUMBER
-studentNumber	:	0972605534
-studentPSchoolName	:	Mễ sở
-studentSSchoolName	:	Mễ sở
-studentSSchoolDate	:	2005-2009
-studentHSchool1Name	:	Nguyễn Công Hoan
-studentHSchool1Date	:	2009-2012
-studentUniversity1Name	:	Trường Cao đăng sư phạm Trung ương
-studentUniversity1Date	:	tháng 9 /2013 -thg 6/2016
-studentUniversity2Date	:	
-studentCompany1Name	:	
-studentCompany1Date	:	
-studentSponsor1Name	:	Duong Thi Mien
-studentSponsor1Number	:	01686300258
-studentRela	:	Độc thân
-studentNguyenQuan	:	mễ sở, văn giang Hưng yên
-studentThuongChu	:	Mễ sở Văn giang , Hương yên
-studentBirthPlace	:	Hưng yên
-studentAddress	:	mễ sở văn giang hưng yên
-studentFatherName	:	Nguyễn Văn Thi , sn 1968 làm nông
 studentMotherName	:	Duong thi miên , sn 1971 làm nông
+studentBirthday	:	2016-08-02
+studentCMNDDate	:	2016-03-03
+studentSSchoolName	:	Mễ sở
+studentUniversity1Name	:	Trường Cao đăng sư phạm Trung ương
+studentNguyenQuan	:	mễ sở, văn giang Hưng yên
+studentSSchoolDate	:	2005-2009
+studentPSchoolName	:	Mễ sở
+studentBirthPlace	:	Hưng yên
+studentUniversity1Date	:	tháng 9 /2013 -thg 6/2016
+studentNumber	:	0972605534
+studentHSchool1Date	:	2009-2012
+studentSponsor1Name	:	Duong Thi Mien
+studentFatherName	:	Nguyễn Văn Thi , sn 1968 làm nông
+studentRela	:	Độc thân
+studentAddress	:	mễ sở văn giang hưng yên
+studentSponsor1Number	:	01686300258
+studentNaMe	:	Hoàng Ngọc Thảo
+studentHSchool1Name	:	Nguyễn Công Hoan
+studentThuongChu	:	Mễ sở Văn giang , Hương yên
+studentGender	:	Nữ
 #EoF#
 You always can create new data anyline above EoF line. (data : studentInfo)
 studentInfo then will replace all data in student's document
