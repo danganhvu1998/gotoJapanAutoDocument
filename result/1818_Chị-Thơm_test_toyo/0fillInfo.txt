@@ -1,7 +1,0 @@
-studentNaMe~Chị Thơm
-studentGender~Nữ
-studentCMNDNumber~0
-studentNumber~0915821008
-studentRela~Học sinh cấp 3 lên Đại học
-studentSponsor1JobPlace~Độc thân
-studentEmail~thom@hagiang.edu.vn
